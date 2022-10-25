@@ -1,0 +1,3 @@
+[submodule "xv6-labs-2022"]
+	path = xv6-labs-2022
+	url = https://github.com/wgwilsonguo/xv6-operating-system.git
